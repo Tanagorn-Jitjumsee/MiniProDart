@@ -1,4 +1,4 @@
-# minipro1
+# MiniprojectDart
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
